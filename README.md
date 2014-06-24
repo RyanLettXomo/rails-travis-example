@@ -9,6 +9,8 @@ This repo contains a Ruby on Rails Application that is being tested with Travis 
 
 The app, Triage, was written by [Matt Konda](https://github.com/mkonda) and he awesomely donated it to be used for the secure pipeline project as the demo rails application.  Thanks Matt! Please see [Triage's README.md](https://github.com/Jemurai/triage/blob/master/README.md) for more infomation on the application. 
 
+https://travis-ci.org/RyanLettXomo/rails-travis-example.svg
+
 ### Branches
 
 Note that Triage *intentionally* has two branches:  
